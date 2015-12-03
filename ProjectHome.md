@@ -1,0 +1,1 @@
+Tartarus is a Python GTK+2 application that parses web pages for HTML forms, and then launches dictionary attacks against username and password fields.
